@@ -2,10 +2,5 @@
 
 int main(void)
 {
-	
-	printf("hello world \n");
-	printf("bfhbb \n");
-	printf("aaaaaaa \n");
-
-
+	printf("Hello world ! \n");
 }
